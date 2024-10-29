@@ -1,10 +1,10 @@
-# Hi 👋, I'm David BILONGO
+# Hi 👋, I'm The Head Of The Table ( Ardi Gedeon NGAMI NGATA)
 
 A Full Stack developer with experience in web, mobile, and desktop development. I'm passionate about creating innovative and reliable software solutions.
 
 ## 💼 Current Work
 
-- **Back-end Developer at GINOV Congo**
+- **Full Stack Developer **
 
 
 ## 🚀 Skills and Technologies
